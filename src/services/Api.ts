@@ -1,6 +1,6 @@
 import { Blog, CreateBlogInput } from '@/types/Blog';
 
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = 'http://localhost:3001';
 
 export const blogAPI = {
   // Get all blogs

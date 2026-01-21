@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Future of Fintech",
-      "category": [
+      "categories": [
         "FINANCE",
         "TECH"
       ],
@@ -15,7 +15,7 @@
     {
       "id": "2",
       "title": "Ace Your CA Finals",
-      "category": [
+      "categories": [
         "CAREER",
         "EDUCATION"
       ],
@@ -27,7 +27,7 @@
     {
       "id": "3",
       "title": "Understanding Tax Reforms",
-      "category": [
+      "categories": [
         "REGULATIONS",
         "FINANCE"
       ],
@@ -39,7 +39,7 @@
     {
       "id": "4",
       "title": "Building a Career in Accounting",
-      "category": [
+      "categories": [
         "CAREER"
       ],
       "description": "Key skills and mindset required to succeed in modern accounting roles",
@@ -50,7 +50,7 @@
     {
       "id": "5",
       "title": "AI in Auditing",
-      "category": [
+      "categories": [
         "TECH",
         "FINANCE"
       ],
@@ -62,7 +62,7 @@
     {
       "id": "6",
       "title": "Managing Work-Life Balance",
-      "category": [
+      "categories": [
         "CAREER",
         "LIFESTYLE"
       ],
@@ -74,7 +74,7 @@
     {
       "id": "7",
       "title": "GST Compliance Simplified",
-      "category": [
+      "categories": [
         "REGULATIONS"
       ],
       "description": "Understanding GST returns and compliance without confusion",
@@ -85,7 +85,7 @@
     {
       "id": "8",
       "title": "Personal Finance for Young Professionals",
-      "category": [
+      "categories": [
         "FINANCE",
         "LIFESTYLE"
       ],
@@ -97,7 +97,7 @@
     {
       "id": "9",
       "title": "Digital Transformation in Accounting Firms",
-      "category": [
+      "categories": [
         "TECH",
         "CAREER"
       ],
@@ -109,7 +109,7 @@
     {
       "id": "10",
       "title": "Ethics in Modern Finance",
-      "category": [
+      "categories": [
         "FINANCE",
         "REGULATIONS"
       ],
